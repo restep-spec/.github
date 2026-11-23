@@ -21,6 +21,7 @@ use those APIs. Read the specification at **<https://restep.wubytes.com/1/>** ([
 | [`restep-from-openapi`](https://github.com/restep-spec/restep-from-openapi) | Says what an OpenAPI-described API lacks to follow Restep and drafts its discovery document |
 | [`restep-server`](https://github.com/restep-spec/restep-server) | Server library: you write the data access, it does the rest of Restep |
 | [`restep-mock`](https://github.com/restep-spec/restep-mock) | A fake Restep API from a discovery document |
+| [`restep-mcp`](https://github.com/restep-spec/restep-mcp) | MCP server for any Restep API: a few generic tools built from its discovery document |
 | [`restep-proxy`](https://github.com/restep-spec/restep-proxy) | Reverse proxy that watches the Restep contract in real traffic |
 | [`restep-explorer`](https://github.com/restep-spec/restep-explorer) | Web explorer for any Restep API, built from its discovery document |
 | [`restep-cli`](https://github.com/restep-spec/restep-cli) | Generic command line client for any Restep API |
