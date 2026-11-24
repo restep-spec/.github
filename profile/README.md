@@ -32,4 +32,4 @@ use those APIs. Read the specification at **<https://restep.wubytes.com/1/>** ([
 | [`skills`](https://github.com/restep-spec/skills) | Agent skills: `restep-design` and `restep-review` |
 
 The tools are developed alongside the specification and mirrored here, each with its own tests
-against the reference server. Most of their READMEs are in Spanish. Everything is MIT licensed.
+against the reference server. Everything is MIT licensed.
